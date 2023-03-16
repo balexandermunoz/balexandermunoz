@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Express, FastAPI**
 
-- 💬 Ask me about **React, JS, Python**
+- 💬 Ask me about **Python, React, JS**
 
 - 📫 How to reach me **balexander.munoz@udea.edu.co**
 
