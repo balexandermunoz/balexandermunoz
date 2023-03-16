@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **balexander.munoz@udea.edu.co**
 
-- ⚡ Fun fact **I like you**
+- ⚡ Fun fact **TDD and clean code lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
