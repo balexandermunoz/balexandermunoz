@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brayan</h1>
 <h3 align="center">I'm a physicist. I like coding.</h3>
 
-- 🔭 I’m a [Pandas](https://github.com/pandas-dev/pandas) Contributor
+- 🐼 I’m a [Pandas](https://github.com/pandas-dev/pandas) Contributor
 
 - 🔭 I’m currently working on [MIRIAM](https://github.com/Catapult-International)
 
