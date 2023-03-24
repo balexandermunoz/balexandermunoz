@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brayan</h1>
+<h1 align="center">Hi 👋, I'm B. Alexander</h1>
 <h3 align="center">I'm a physicist. I like coding.</h3>
 
 - 🐼 I’m a [Pandas](https://github.com/pandas-dev/pandas) Contributor
