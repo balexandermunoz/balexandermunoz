@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Magaya](https://github.com/Catapult-International)
 
-- 🌱 I’m currently learning **Django, Express, FastAPI**
+- 🌱 I’m currently learning **Express**
 
 - 💬 Ask me about **Python, React, JS**
 
