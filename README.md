@@ -3,7 +3,7 @@
 
 - 🐼 I’m a [Pandas](https://github.com/pandas-dev/pandas) Contributor
 
-- 🔭 I’m currently working on [Magaya](https://github.com/Catapult-International)
+- 🔭 I’m currently working on [guane Enterprises](https://github.com/guanes)
 
 - 🌱 I’m currently learning **Express**
 
