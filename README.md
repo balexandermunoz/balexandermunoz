@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm B. Alexander</h1>
-<h3 align="center">I'm a physicist. I like coding.</h3>
+<h3 align="center">I'm a physicist. I like data and coding.</h3>
 
 - 🐼 I’m a [Pandas](https://github.com/pandas-dev/pandas) Contributor
 
-- 🔭 I’m currently working on [guane Enterprises](https://github.com/guanes)
+- 🔭 I’m currently working on [Standard & Poor's](https://www.spglobal.com/ratings/en/)
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Streamlit**
 
-- 💬 Ask me about **Python, React, JS**
+- 💬 Ask me about **Python, Data Science, Data visualization, Software development, React, JS**
 
 - 📫 How to reach me **balexander.munoz@udea.edu.co**
 
-- ⚡ Fun fact **TDD and clean code lover**
+- ⚡ Fun fact **Clean code lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
